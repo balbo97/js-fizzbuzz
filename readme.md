@@ -12,3 +12,11 @@ Consigli del giorno:
 2. Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
+
+1- utilizzare un ciclo for per stampare i numeri da 1 a 100;
+2- ?multiplo di 3 
+ 2.1- stampo 'Fizz'
+3- ?multiplo di 5 
+ 3.1- stampo 'Buzz'
+4- ? multiplo sia di 3 che di 5 contemporaneamente 
+ 4.1- stampo 'FizzBuzz'
